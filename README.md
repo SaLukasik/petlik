@@ -2,7 +2,7 @@
 Boring student project for  imperative programming classes
 
 
-Specification
+Specification (I'm not the author of this task and tests)
 Rozważamy realizację języka programowania Pętlik. Składnię języka opisuje gramatyka z symbolem początkowym Program:
 
 Program → CiągInstrukcji
